@@ -1,0 +1,27 @@
+.rounded-circle {
+  transform: rotate(-90deg);
+}
+
+.me {
+  transform: rotate(0deg);
+}
+
+.cert {
+  transform: rotate(0deg);
+}
+
+.rounded.img-fluid {
+  transform: rotate(-90deg);
+}
+
+.mypic {
+  transform: rotate(90deg);
+}
+
+.img-fluid {
+}
+
+.img-fluid.me {
+  transform: rotate(90deg);
+}
+
